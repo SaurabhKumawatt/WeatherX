@@ -34,7 +34,7 @@ body {
   justify-content: space-between;
 }
 .search-bar input{
-  min-width: 118px 
+  min-width: 118px;
   border: 0;
   outline: 0;
   background: #ebfffc;
